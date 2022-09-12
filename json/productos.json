@@ -1,0 +1,157 @@
+[{
+        "id": 1,
+        "tipo": "Procesador",
+        "nombre": "Procesador Intel I3",
+        "precio": 16000,
+        "foto": "../media/products/i3.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Procesador",
+        "nombre": "Procesador Intel I5",
+        "precio": 29700,
+        "foto": "../media/products/i5.jpg"
+    }, {
+        "id": 3,
+        "tipo": "Procesador",
+        "nombre": "Procesador Intel I7",
+        "precio": 61900,
+        "foto": "../media/products/i7.jpg"
+    }, {
+        "id": 4,
+        "tipo": "Procesador",
+        "nombre": "Procesador Intel I9",
+        "precio": 98900,
+        "foto": "../media/products/i9.jpg"
+    }, {
+        "id": 5,
+        "tipo": "Procesador",
+        "nombre": "Procesador Ryzen 3",
+        "precio": 29900,
+        "foto": "../media/products/ryzen 3.jpg"
+    }, {
+        "id": 6,
+        "tipo": "Procesador",
+        "nombre": "Procesador Ryzen 5",
+        "precio": 38000,
+        "foto": "../media/products/ryzen 5.jpg"
+    }, {
+        "id": 7,
+        "tipo": "Procesador",
+        "nombre": "Procesador Ryzen 7",
+        "precio": 63300,
+        "foto": "../media/products/ryzen 7.jpg"
+    }, {
+        "id": 8,
+        "tipo": "Procesador",
+        "nombre": "Procesador Ryzen 9",
+        "precio": 108200,
+        "foto": "../media/products/ryzen 9.jpg"
+    }, {
+        "id": 9,
+        "tipo": "Gráfica",
+        "nombre": "GTX 1060",
+        "precio": 75000,
+        "foto": "../media/products/gtx1060.jpg"
+    }, {
+        "id": 10,
+        "tipo": "Gráfica",
+        "nombre": "GTX 1070",
+        "precio": 90000,
+        "foto": "../media/products/gtx1070.jpg"
+    }, {
+        "id": 11,
+        "tipo": "Gráfica",
+        "nombre": "GTX 1080",
+        "precio": 100000,
+        "foto": "../media/products/gtx1080.jpg"
+    }, {
+        "id": 12,
+        "tipo": "Gráfica",
+        "nombre": "RTX 2060",
+        "precio": 84700,
+        "foto": "../media/products/rtx2060.jpg"
+    }, {
+        "id": 13,
+        "tipo": "Gráfica",
+        "nombre": "RTX 2070",
+        "precio": 98900,
+        "foto": "../media/products/rtx2070.jpg"
+    }, {
+        "id": 14,
+        "tipo": "Gráfica",
+        "nombre": "RTX 2080",
+        "precio": 130000,
+        "foto": "../media/products/rtx2080.jpg"
+    }, {
+        "id": 15,
+        "tipo": "RAM",
+        "nombre": "Memoria RAM 4GB",
+        "precio": 4200,
+        "foto": "../media/products/4gb.jpg"
+    }, {
+        "id": 16,
+        "tipo": "RAM",
+        "nombre": "Memoria RAM 8GB",
+        "precio": 8500,
+        "foto": "../media/products/8gb.jpg"
+    }, {
+        "id": 17,
+        "tipo": "RAM",
+        "nombre": "Memoria RAM 16GB",
+        "precio": 14000,
+        "foto": "../media/products/16gb.jpg"
+    }, {
+        "id": 18,
+        "tipo": "Almacenamiento",
+        "nombre": "Disco Rigido interno HDD 1TB",
+        "precio": 8000,
+        "foto": "../media/products/1tb.jpg"
+    }, {
+        "id": 19,
+        "tipo": "Almacenamiento",
+        "nombre": "Disco Solido interno SSD 240GB",
+        "precio": 4300,
+        "foto": "../media/products/240gb.jpg"
+    }, {
+        "id": 20,
+        "tipo": "Almacenamiento",
+        "nombre": "Disco Solido interno SSD 480GB",
+        "precio": 8000,
+        "foto": "../media/products/480gb.jpg"
+    }, {
+        "id": 21,
+        "tipo": "Almacenamiento",
+        "nombre": "Disco Solido interno M.2 500GB",
+        "precio": 9700,
+        "foto": "../media/products/m.2.jpg"
+    }, {
+        "id": 22,
+        "tipo": "Motherboard",
+        "nombre": "Motherboard ASUS B450M",
+        "precio": 20600,
+        "foto": "../media/products/asus.jpg"
+    }, {
+        "id": 23,
+        "tipo": "Motherboard",
+        "nombre": "Motherboard MSI B450M am4",
+        "precio": 20000,
+        "foto": "../media/products/msi.jpg"
+    }, {
+        "id": 24,
+        "tipo": "Fuente",
+        "nombre": "Fuente EVGA 500w 80plus Bronze",
+        "precio": 15000,
+        "foto": "../media/products/500w.jpg"
+    }, {
+        "id": 25,
+        "tipo": "Fuente",
+        "nombre": "Fuente EVGA 750w 80plus Gold",
+        "precio": 30000,
+        "foto": "../media/products/750w.jpg"
+    }, {
+        "id": 26,
+        "tipo": "Fuente",
+        "nombre": "Fuente EVGA 1000w 80plus Gold",
+        "precio": 80000,
+        "foto": "../media/products/1000w.jpg"
+    }]
